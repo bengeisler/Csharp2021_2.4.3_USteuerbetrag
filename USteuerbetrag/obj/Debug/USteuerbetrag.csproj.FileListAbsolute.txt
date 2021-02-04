@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\USteuerbetrag\USteuerbetrag\bin\Debug\USteuerbetrag.exe.config
+C:\Users\b\source\repos\USteuerbetrag\USteuerbetrag\bin\Debug\USteuerbetrag.exe
+C:\Users\b\source\repos\USteuerbetrag\USteuerbetrag\bin\Debug\USteuerbetrag.pdb
+C:\Users\b\source\repos\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.csprojAssemblyReference.cache
+C:\Users\b\source\repos\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.Form1.resources
+C:\Users\b\source\repos\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.Properties.Resources.resources
+C:\Users\b\source\repos\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.csproj.GenerateResource.cache
+C:\Users\b\source\repos\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.exe
+C:\Users\b\source\repos\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.pdb
